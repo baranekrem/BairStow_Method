@@ -1,4 +1,4 @@
-# BairStow Method
+# Bairstow's Method
 
 BairStow Method using Python
 
