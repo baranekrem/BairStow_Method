@@ -1,6 +1,6 @@
 # Bairstow's Method
 
-BairStow Method using Python
+Bairstow's Method using Python
 
 ## Getting Started
 
